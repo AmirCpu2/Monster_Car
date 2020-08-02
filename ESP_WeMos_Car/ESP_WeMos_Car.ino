@@ -3,8 +3,8 @@
 #include <ESP8266WiFi.h>
 #include "Virtuino_ESP_WifiServer.h"
 
-const char* ssid = "amircpu-phone";    
-const char* password = "123456789";
+const char* ssid = "Irancell-TD-B5142-2858_1";    
+const char* password = "P@ssM0rd";
 int port = 8000;
 WiFiServer server(port);      // Server port
 
